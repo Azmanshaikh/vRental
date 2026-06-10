@@ -1,0 +1,13 @@
+=================================
+     VEHICLE RENTAL RECEIPT
+=================================
+
+Customer Name : Shrikrishna Hegde
+Vehicle Type  : Car
+Rental Days   : 7
+Total Cost    : Rs. 9450.00
+Date          : 2026-06-10 22:14:16
+
+=================================
+   Thank you for choosing us!
+=================================
